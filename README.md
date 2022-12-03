@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ahmadelhadad
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Front End & Performance Testing
+- 💞️ I’m looking for oportunity withing software testing field
+- 📫 reach me through Ahmad.elhadad647@gmail.com or +201007995883
